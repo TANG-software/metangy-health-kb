@@ -1,0 +1,151 @@
+[
+  {
+    "id": "cardiac",
+    "label": "possible heart attack",
+    "words": [
+      "chest pain",
+      "chest pressure",
+      "chest tightness",
+      "crushing chest",
+      "pain in left arm",
+      "heart attack",
+      "cardiac arrest",
+      "jaw pain with sweating"
+    ],
+    "advice": "sit down, stop all activity, and call an ambulance. Chew an aspirin only if a doctor has already told you it is safe for you."
+  },
+  {
+    "id": "stroke",
+    "label": "possible stroke",
+    "words": [
+      "face drooping",
+      "face droop",
+      "slurred speech",
+      "cannot speak",
+      "sudden weakness",
+      "cannot move arm",
+      "weakness on one side",
+      "stroke",
+      "paralysis",
+      "sudden confusion"
+    ],
+    "advice": "note the exact time the symptoms started - it changes the treatment. Do not give food or water."
+  },
+  {
+    "id": "breathing",
+    "label": "severe breathing difficulty",
+    "words": [
+      "not breathing",
+      "can't breathe",
+      "cant breathe",
+      "cannot breathe",
+      "difficulty breathing",
+      "gasping",
+      "choking",
+      "blue lips",
+      "lips turning blue",
+      "suffocating"
+    ],
+    "advice": "sit upright, loosen tight clothing, and get emergency help now."
+  },
+  {
+    "id": "bleeding",
+    "label": "severe bleeding",
+    "words": [
+      "heavy bleeding",
+      "severe bleeding",
+      "bleeding a lot",
+      "blood loss",
+      "vomiting blood",
+      "coughing blood",
+      "blood in vomit",
+      "black stools",
+      "bleeding gums with fever"
+    ],
+    "advice": "press firmly on the wound with a clean cloth and keep pressing. Do not pull out an object stuck in a wound."
+  },
+  {
+    "id": "suicide",
+    "label": "thoughts of self-harm",
+    "words": [
+      "suicide",
+      "kill myself",
+      "end my life",
+      "want to die",
+      "self harm",
+      "hurt myself",
+      "no reason to live"
+    ],
+    "advice": "they are not alone. Encourage them to talk to someone they trust right now and to call a crisis line. In India, Tele-MANAS is 14416."
+  },
+  {
+    "id": "poison",
+    "label": "poisoning or overdose",
+    "words": [
+      "overdose",
+      "poison",
+      "poisoned",
+      "swallowed pills",
+      "took too many tablets",
+      "snake bite",
+      "snakebite",
+      "scorpion sting",
+      "drank kerosene",
+      "pesticide"
+    ],
+    "advice": "do not make yourself vomit. Keep the packet or bottle and show it to the doctor."
+  },
+  {
+    "id": "sepsis",
+    "label": "possible serious infection",
+    "words": [
+      "stiff neck",
+      "rash that does not fade",
+      "non fading rash",
+      "high fever with confusion",
+      "fever with confusion",
+      "dengue hemorrhagic",
+      "dengue with bleeding"
+    ],
+    "advice": "do not wait to see if it improves overnight - this needs a doctor today."
+  },
+  {
+    "id": "anaphylaxis",
+    "label": "severe allergic reaction",
+    "words": [
+      "throat swelling",
+      "swollen tongue",
+      "throat closing",
+      "anaphyla",
+      "cannot swallow",
+      "swelling of the face with breathing"
+    ],
+    "advice": "this can close the airway within minutes. Use an adrenaline auto-injector if they have one and call an ambulance."
+  },
+  {
+    "id": "pregnancy",
+    "label": "pregnancy emergency",
+    "words": [
+      "heavy bleeding in pregnancy",
+      "no fetal movement",
+      "baby not moving",
+      "severe abdominal pain in pregnancy",
+      "water broke early"
+    ],
+    "advice": "go to the nearest hospital with maternity care now."
+  },
+  {
+    "id": "neuro",
+    "label": "seizure or loss of consciousness",
+    "words": [
+      "seizure",
+      "fits ",
+      "convulsion",
+      "unconscious",
+      "passed out",
+      "not waking up",
+      "unresponsive"
+    ],
+    "advice": "lie them on their side, clear the space around them, put nothing in the mouth, and time how long it lasts."
+  }
+]
