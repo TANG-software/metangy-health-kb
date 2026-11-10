@@ -38,6 +38,10 @@ Assembled from public guidance published by the **NHS**, the **WHO** and the **C
 
 If you build on this, keep a clear "information, not a diagnosis" line in front of it, and route emergencies to the real emergency number for the user's country.
 
+## Also in this repo
+
+- **[`india-reference-ranges/`](india-reference-ranges/)** — 52 lab tests with India-specific reference intervals, including **per-lab overrides** for TSH across Thyrocare, Dr Lal PathLabs, SRL and Metropolis. A TSH of 4.4 is high at one and normal at another; a general AI cannot know that.
+
 ## Licence
 
 CC-BY-4.0 — use it, adapt it, ship it commercially, credit Metangy.
